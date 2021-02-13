@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-by-federico",
+  "version": "1.0.0",
+  "description": " I don't know what to write for the first commit. ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "frerderic.marroquin@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
